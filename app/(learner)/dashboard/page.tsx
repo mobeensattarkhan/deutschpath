@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { ModuleCard } from '@/components/shell/module-card';
 import { Card, CardContent } from '@/components/ui/card';
 import { BRAND, MODULES } from '@/lib/constants';
@@ -40,9 +41,20 @@ export default async function DashboardPage() {
           Your learning modules
         </h2>
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {MODULES.map((m) => (
-            <ModuleCard key={m.key} module={m} completedStages={0} />
-          ))}
+          {MODULES.map((m) =>
+            m.key === 'grammar' ? (
+              <Link key={m.key} href="/grammar" className="block rounded-[var(--radius-lg)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring">
+                <ModuleCard module={m} completedStages={0} />
+              </Link>
+            ) : (
+              <div key={m.key} className="relative">
+                <ModuleCard module={m} completedStages={0} />
+                <span className="absolute right-3 top-3 rounded-full bg-surface-muted px-2 py-0.5 text-xs text-muted-foreground">
+                  Coming soon
+                </span>
+              </div>
+            ),
+          )}
         </div>
       </section>
 

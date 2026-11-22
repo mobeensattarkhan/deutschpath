@@ -56,10 +56,16 @@ Fill in the Supabase values from your project dashboard
 
 - `NEXT_PUBLIC_SUPABASE_URL`
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-- `SUPABASE_SERVICE_ROLE_KEY` (server-only; used by content/admin tooling later)
+- `SUPABASE_SERVICE_ROLE_KEY` (server-only; required to serve + evaluate content)
 
-Leave `OPENAI_API_KEY` and `TELNYX_API_KEY` blank for now. **Never commit
-`.env.local`.**
+Optional:
+- `OPENAI_API_KEY` (+ `OPENAI_EVAL_MODEL`) — enables **real** AI grammar grading.
+  Without it the app uses a deterministic offline mock that only confirms exact/
+  known answers and flags everything else for review.
+- `CONTENT_PREVIEW=1` (non-production only) — serve `needs_review` content so you
+  can test the modules before German review/publishing.
+
+**Never commit `.env.local`.**
 
 ### 3. Apply the database schema
 
@@ -77,7 +83,9 @@ in this order:
 
 1. `supabase/migrations/0001_schema.sql`
 2. `supabase/migrations/0002_rls.sql`
-3. `supabase/seed.sql` (optional — seeds the A2 course + 3 module rows)
+3. `supabase/migrations/0003_content_workflow.sql`
+4. `supabase/migrations/0004_stage_engine.sql`
+5. `supabase/seed.sql` (optional — seeds the A2 course + 3 module rows)
 
 > **Read before applying:** `0001` creates the tables, enums and two triggers
 > (auto-create a `profiles` row on sign-up, and `updated_at` maintenance).
@@ -218,6 +226,34 @@ linked, never copied.
 > Moving content to `approved`/`published` is a deliberate step after a
 > qualified German review — the import never does it for you.
 
+## Stage engine & modules
+
+The stage/progression engine is the shared backbone (`supabase/migrations/0004_stage_engine.sql`,
+`lib/stage-engine/`):
+
+- **The server decides completion.** Learners can no longer write their own
+  attempts or corrections (those policies are dropped); all scoring writes go
+  through trusted server routes. Completion + unlocking the next stage happens in
+  one SECURITY DEFINER Postgres function (`fn_complete_stage`) that re-checks the
+  passing score and that **every required correction is resolved** — the mistake
+  gate. The client cannot set `completed: true`.
+- **Stage score** = the average of each question's best score (one lucky answer
+  can't clear a multi-question stage).
+
+**Grammar module** (`app/(learner)/grammar/…`, `app/api/grammar/…`, `lib/ai/…`):
+lesson header → answer each question → server evaluation → feedback →
+required-correction flow → "Complete stage" unlocks the next one.
+
+- **AI evaluation** runs behind a provider adapter. Deterministic checks accept
+  exact/known answers first (no model call); otherwise the configured provider
+  evaluates. With no `OPENAI_API_KEY`, a deterministic **offline mock** runs so
+  the app works end-to-end — but it only confirms exact matches and flags the
+  rest for review. Answer keys are never sent to the browser; questions are
+  served with model answers stripped.
+
+> Dictation and Email modules follow the same pattern and are the next
+> milestones.
+
 ## How authentication works
 
 1. `proxy.ts` runs on every request, refreshes the Supabase session cookie
@@ -251,12 +287,12 @@ arrive with the stage engine in Milestone 2+.
 | --------- | ----------------------------------------------------------- | ---------- |
 | **1**     | Foundation, auth, protected dashboard                       | ✅ Done    |
 | **2**     | Content pipeline (schemas, workflow migration, import)      | ✅ Done    |
-| 3         | Shared stage & progression engine (server-side unlocking)   | Next       |
-| 4         | Grammar slice (lesson → attempt → AI eval → correction)     | Planned    |
-| 5         | Dictation slice (TTS adapter, audio, text alignment)        | Planned    |
-| 6         | Email slice (editor, autosave, rubric evaluation)           | Planned    |
-| 7         | Content generation (fill gaps, batched + reviewed)          | Planned    |
-| 8         | Dashboard analytics, mistake history, polish, deployment    | Planned    |
+| **3**     | Stage engine + Grammar module (attempt → AI eval → correction → unlock) | ✅ Done |
+| 4         | Dictation slice (TTS adapter, audio, text alignment)        | Next       |
+| 5         | Email slice (editor, autosave, rubric evaluation)           | Planned    |
+| 6         | Content generation (fill gaps, batched + reviewed)          | Planned    |
+| 7         | Dashboard analytics, mistake history, polish                | Planned    |
+| 8         | Deployment, RLS review, monitoring                          | Planned    |
 
 The architecture is intentionally extensible to A1/B1/B2 later, but only A2 is
 built now.
