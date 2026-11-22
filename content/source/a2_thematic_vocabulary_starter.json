@@ -1,0 +1,714 @@
+[
+  {
+    "german": "der Alltag",
+    "english": "everyday life",
+    "topic": "daily routine",
+    "part_of_speech": "noun",
+    "form_or_note": "Alltag",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Arbeit",
+    "english": "work",
+    "topic": "work and jobs",
+    "part_of_speech": "noun",
+    "form_or_note": "Arbeit",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Arbeitsplatz",
+    "english": "workplace",
+    "topic": "work and jobs",
+    "part_of_speech": "noun",
+    "form_or_note": "Arbeitsplätze",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Beruf",
+    "english": "profession",
+    "topic": "work and jobs",
+    "part_of_speech": "noun",
+    "form_or_note": "Berufe",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Bewerbung",
+    "english": "application",
+    "topic": "work and jobs",
+    "part_of_speech": "noun",
+    "form_or_note": "Bewerbungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Termin",
+    "english": "appointment",
+    "topic": "appointments",
+    "part_of_speech": "noun",
+    "form_or_note": "Termine",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Einladung",
+    "english": "invitation",
+    "topic": "social life",
+    "part_of_speech": "noun",
+    "form_or_note": "Einladungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Feier",
+    "english": "celebration",
+    "topic": "social life",
+    "part_of_speech": "noun",
+    "form_or_note": "Feiern",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Geburtstag",
+    "english": "birthday",
+    "topic": "social life",
+    "part_of_speech": "noun",
+    "form_or_note": "Geburtstage",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Geschenk",
+    "english": "gift",
+    "topic": "social life",
+    "part_of_speech": "noun",
+    "form_or_note": "Geschenke",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Familie",
+    "english": "family",
+    "topic": "family",
+    "part_of_speech": "noun",
+    "form_or_note": "Familien",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Eltern",
+    "english": "parents",
+    "topic": "family",
+    "part_of_speech": "noun",
+    "form_or_note": "plural",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Geschwister",
+    "english": "siblings",
+    "topic": "family",
+    "part_of_speech": "noun",
+    "form_or_note": "plural",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Wohnung",
+    "english": "apartment",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Wohnungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Zimmer",
+    "english": "room",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Zimmer",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Küche",
+    "english": "kitchen",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Küchen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Bad",
+    "english": "bathroom",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Bäder",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Schlüssel",
+    "english": "key",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Schlüssel",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Miete",
+    "english": "rent",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Mieten",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Nachbar",
+    "english": "neighbour",
+    "topic": "home",
+    "part_of_speech": "noun",
+    "form_or_note": "Nachbarn",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Einkauf",
+    "english": "shopping",
+    "topic": "shopping",
+    "part_of_speech": "noun",
+    "form_or_note": "Einkäufe",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Angebot",
+    "english": "offer",
+    "topic": "shopping",
+    "part_of_speech": "noun",
+    "form_or_note": "Angebote",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Preis",
+    "english": "price",
+    "topic": "shopping",
+    "part_of_speech": "noun",
+    "form_or_note": "Preise",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Rechnung",
+    "english": "bill",
+    "topic": "shopping",
+    "part_of_speech": "noun",
+    "form_or_note": "Rechnungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Kasse",
+    "english": "checkout",
+    "topic": "shopping",
+    "part_of_speech": "noun",
+    "form_or_note": "Kassen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Gemüse",
+    "english": "vegetables",
+    "topic": "food",
+    "part_of_speech": "noun",
+    "form_or_note": "usually singular",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Obst",
+    "english": "fruit",
+    "topic": "food",
+    "part_of_speech": "noun",
+    "form_or_note": "usually singular",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Getränk",
+    "english": "drink",
+    "topic": "food",
+    "part_of_speech": "noun",
+    "form_or_note": "Getränke",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Mahlzeit",
+    "english": "meal",
+    "topic": "food",
+    "part_of_speech": "noun",
+    "form_or_note": "Mahlzeiten",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Frühstück",
+    "english": "breakfast",
+    "topic": "food",
+    "part_of_speech": "noun",
+    "form_or_note": "Frühstücke",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Gesundheit",
+    "english": "health",
+    "topic": "health",
+    "part_of_speech": "noun",
+    "form_or_note": "usually singular",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Arzt",
+    "english": "doctor",
+    "topic": "health",
+    "part_of_speech": "noun",
+    "form_or_note": "Ärzte",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Apotheke",
+    "english": "pharmacy",
+    "topic": "health",
+    "part_of_speech": "noun",
+    "form_or_note": "Apotheken",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Krankheit",
+    "english": "illness",
+    "topic": "health",
+    "part_of_speech": "noun",
+    "form_or_note": "Krankheiten",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Schmerz",
+    "english": "pain",
+    "topic": "health",
+    "part_of_speech": "noun",
+    "form_or_note": "Schmerzen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Reise",
+    "english": "trip",
+    "topic": "travel",
+    "part_of_speech": "noun",
+    "form_or_note": "Reisen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Fahrkarte",
+    "english": "ticket",
+    "topic": "travel",
+    "part_of_speech": "noun",
+    "form_or_note": "Fahrkarten",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Bahnhof",
+    "english": "train station",
+    "topic": "travel",
+    "part_of_speech": "noun",
+    "form_or_note": "Bahnhöfe",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Haltestelle",
+    "english": "stop",
+    "topic": "travel",
+    "part_of_speech": "noun",
+    "form_or_note": "Haltestellen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Verspätung",
+    "english": "delay",
+    "topic": "travel",
+    "part_of_speech": "noun",
+    "form_or_note": "Verspätungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Richtung",
+    "english": "direction",
+    "topic": "travel",
+    "part_of_speech": "noun",
+    "form_or_note": "Richtungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Nachricht",
+    "english": "message",
+    "topic": "communication",
+    "part_of_speech": "noun",
+    "form_or_note": "Nachrichten",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die E-Mail",
+    "english": "email",
+    "topic": "communication",
+    "part_of_speech": "noun",
+    "form_or_note": "E-Mails",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Antwort",
+    "english": "answer",
+    "topic": "communication",
+    "part_of_speech": "noun",
+    "form_or_note": "Antworten",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Frage",
+    "english": "question",
+    "topic": "communication",
+    "part_of_speech": "noun",
+    "form_or_note": "Fragen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Information",
+    "english": "information",
+    "topic": "communication",
+    "part_of_speech": "noun",
+    "form_or_note": "Informationen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Kurs",
+    "english": "course",
+    "topic": "education",
+    "part_of_speech": "noun",
+    "form_or_note": "Kurse",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Prüfung",
+    "english": "exam",
+    "topic": "education",
+    "part_of_speech": "noun",
+    "form_or_note": "Prüfungen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Aufgabe",
+    "english": "task",
+    "topic": "education",
+    "part_of_speech": "noun",
+    "form_or_note": "Aufgaben",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Sprache",
+    "english": "language",
+    "topic": "education",
+    "part_of_speech": "noun",
+    "form_or_note": "Sprachen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Freizeit",
+    "english": "free time",
+    "topic": "leisure",
+    "part_of_speech": "noun",
+    "form_or_note": "usually singular",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Wochenende",
+    "english": "weekend",
+    "topic": "leisure",
+    "part_of_speech": "noun",
+    "form_or_note": "Wochenenden",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Spaziergang",
+    "english": "walk",
+    "topic": "leisure",
+    "part_of_speech": "noun",
+    "form_or_note": "Spaziergänge",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "das Wetter",
+    "english": "weather",
+    "topic": "weather",
+    "part_of_speech": "noun",
+    "form_or_note": "usually singular",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "die Wolke",
+    "english": "cloud",
+    "topic": "weather",
+    "part_of_speech": "noun",
+    "form_or_note": "Wolken",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "der Regen",
+    "english": "rain",
+    "topic": "weather",
+    "part_of_speech": "noun",
+    "form_or_note": "usually singular",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "pünktlich",
+    "english": "on time",
+    "topic": "adjective",
+    "part_of_speech": "adjective",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "verspätet",
+    "english": "delayed",
+    "topic": "travel",
+    "part_of_speech": "adjective",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "freundlich",
+    "english": "friendly",
+    "topic": "describing people",
+    "part_of_speech": "adjective",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "wichtig",
+    "english": "important",
+    "topic": "general",
+    "part_of_speech": "adjective",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "möglich",
+    "english": "possible",
+    "topic": "general",
+    "part_of_speech": "adjective",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "besuchen",
+    "english": "to visit",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "besucht",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "beginnen",
+    "english": "to begin",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "beginnt, hat begonnen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "bekommen",
+    "english": "to receive",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "bekommt, hat bekommen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "brauchen",
+    "english": "to need",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "braucht, hat gebraucht",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "einladen",
+    "english": "to invite",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "lädt ein, hat eingeladen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "erklären",
+    "english": "to explain",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "erklärt, hat erklärt",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "erzählen",
+    "english": "to tell",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "erzählt, hat erzählt",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "fehlen",
+    "english": "to be missing",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "fehlt, hat gefehlt",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "gefallen",
+    "english": "to please/like",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "gefällt, hat gefallen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "helfen",
+    "english": "to help",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "hilft, hat geholfen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "hoffen",
+    "english": "to hope",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "hofft, hat gehofft",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "mitbringen",
+    "english": "to bring along",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "bringt mit, hat mitgebracht",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "stattfinden",
+    "english": "to take place",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "findet statt, hat stattgefunden",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "verschieben",
+    "english": "to postpone",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "verschiebt, hat verschoben",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "vereinbaren",
+    "english": "to arrange",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "vereinbart, hat vereinbart",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "vergessen",
+    "english": "to forget",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "vergisst, hat vergessen",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "warten",
+    "english": "to wait",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "wartet, hat gewartet",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "wünschen",
+    "english": "to wish",
+    "topic": "verbs",
+    "part_of_speech": "verb",
+    "form_or_note": "wünscht, hat gewünscht",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "zuerst",
+    "english": "first",
+    "topic": "sequence",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "danach",
+    "english": "afterwards",
+    "topic": "sequence",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "deshalb",
+    "english": "therefore",
+    "topic": "connectors",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "trotzdem",
+    "english": "nevertheless",
+    "topic": "connectors",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "vielleicht",
+    "english": "perhaps",
+    "topic": "general",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "leider",
+    "english": "unfortunately",
+    "topic": "general",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "gestern",
+    "english": "yesterday",
+    "topic": "time",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "morgen",
+    "english": "tomorrow",
+    "topic": "time",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "früher",
+    "english": "earlier/formerly",
+    "topic": "time",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  },
+  {
+    "german": "später",
+    "english": "later",
+    "topic": "time",
+    "part_of_speech": "adverb",
+    "form_or_note": "",
+    "source_note": "Original starter selection; verify against official A2 vocabulary list before publication."
+  }
+]

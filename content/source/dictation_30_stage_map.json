@@ -1,0 +1,362 @@
+[
+  {
+    "stage": 1,
+    "theme": "Daily routine",
+    "target_words": 50,
+    "suggested_time_minutes": 5,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 2,
+    "theme": "Family and shopping",
+    "target_words": 50,
+    "suggested_time_minutes": 5,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 3,
+    "theme": "Food and cooking",
+    "target_words": 100,
+    "suggested_time_minutes": 10,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 4,
+    "theme": "School and learning",
+    "target_words": 100,
+    "suggested_time_minutes": 10,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 5,
+    "theme": "Work and appointments",
+    "target_words": 125,
+    "suggested_time_minutes": 12,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 6,
+    "theme": "Travel and transport",
+    "target_words": 125,
+    "suggested_time_minutes": 12,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 7,
+    "theme": "Health and daily life",
+    "target_words": 150,
+    "suggested_time_minutes": 15,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 8,
+    "theme": "Weekend and past events",
+    "target_words": 150,
+    "suggested_time_minutes": 15,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 9,
+    "theme": "Holidays and experiences",
+    "target_words": 175,
+    "suggested_time_minutes": 17,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 10,
+    "theme": "Home and neighbourhood",
+    "target_words": 175,
+    "suggested_time_minutes": 17,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 11,
+    "theme": "Friends and invitations",
+    "target_words": 200,
+    "suggested_time_minutes": 20,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 12,
+    "theme": "Weather and plans",
+    "target_words": 200,
+    "suggested_time_minutes": 20,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 13,
+    "theme": "At a restaurant",
+    "target_words": 225,
+    "suggested_time_minutes": 22,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 14,
+    "theme": "At the doctor",
+    "target_words": 225,
+    "suggested_time_minutes": 22,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 15,
+    "theme": "Public transport",
+    "target_words": 250,
+    "suggested_time_minutes": 25,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 16,
+    "theme": "A course and learning German",
+    "target_words": 250,
+    "suggested_time_minutes": 25,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 17,
+    "theme": "A visit to a friend",
+    "target_words": 275,
+    "suggested_time_minutes": 27,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 18,
+    "theme": "A hotel stay",
+    "target_words": 275,
+    "suggested_time_minutes": 27,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 19,
+    "theme": "A delayed parcel",
+    "target_words": 300,
+    "suggested_time_minutes": 30,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 20,
+    "theme": "An everyday problem",
+    "target_words": 300,
+    "suggested_time_minutes": 30,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 21,
+    "theme": "A workday",
+    "target_words": 325,
+    "suggested_time_minutes": 32,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 22,
+    "theme": "A family celebration",
+    "target_words": 325,
+    "suggested_time_minutes": 32,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 23,
+    "theme": "A city visit",
+    "target_words": 350,
+    "suggested_time_minutes": 35,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 24,
+    "theme": "A change of plans",
+    "target_words": 350,
+    "suggested_time_minutes": 35,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 25,
+    "theme": "An email and appointment",
+    "target_words": 375,
+    "suggested_time_minutes": 37,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 26,
+    "theme": "A memorable weekend",
+    "target_words": 375,
+    "suggested_time_minutes": 37,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 27,
+    "theme": "A small complaint",
+    "target_words": 400,
+    "suggested_time_minutes": 40,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 28,
+    "theme": "A travel experience",
+    "target_words": 400,
+    "suggested_time_minutes": 40,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 29,
+    "theme": "Mixed A2 daily life",
+    "target_words": 425,
+    "suggested_time_minutes": 42,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  },
+  {
+    "stage": 30,
+    "theme": "A2 listening revision",
+    "target_words": 425,
+    "suggested_time_minutes": 42,
+    "audio_locale": "de-DE",
+    "playback_modes": [
+      "practice",
+      "exam"
+    ],
+    "content_status": "passage_to_author"
+  }
+]

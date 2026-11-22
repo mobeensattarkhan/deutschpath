@@ -1,0 +1,752 @@
+[
+  {
+    "id": "E01",
+    "stage": 1,
+    "title": "Birthday invitation",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Birthday invitation“ schreiben.",
+    "required_points": [
+      "Thank the friend for the invitation.",
+      "Say whether you can attend.",
+      "Ask when the party starts."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Ali,\nvielen Dank für deine Einladung. Ich komme sehr gern zu deiner Geburtstagsparty. Wann beginnt die Party? Soll ich etwas mitbringen?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E02",
+    "stage": 2,
+    "title": "Accept an invitation",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Accept an invitation“ schreiben.",
+    "required_points": [
+      "Thank the person.",
+      "Accept the invitation.",
+      "Ask what you should bring."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Liebe Sara,\nvielen Dank für deine Einladung. Ich komme am Samstag gern zu dir. Ich kann einen Kuchen mitbringen. Um wie viel Uhr soll ich da sein?\nLiebe Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E03",
+    "stage": 3,
+    "title": "Decline an invitation",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Decline an invitation“ schreiben.",
+    "required_points": [
+      "Thank the person.",
+      "Explain why you cannot come.",
+      "Suggest another day."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Tom,\ndanke für deine Einladung. Leider kann ich am Freitag nicht kommen, weil ich arbeiten muss. Hast du am Sonntag Zeit? Dann können wir uns treffen.\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E04",
+    "stage": 4,
+    "title": "Arrange an appointment",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Arrange an appointment“ schreiben.",
+    "required_points": [
+      "State why you are writing.",
+      "Ask for an appointment.",
+      "Give suitable days or times."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Guten Tag,\nich möchte gern einen Termin vereinbaren. Ich habe am Montag und Dienstag am Nachmittag Zeit. Haben Sie einen freien Termin?\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E05",
+    "stage": 5,
+    "title": "Reschedule an appointment",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Reschedule an appointment“ schreiben.",
+    "required_points": [
+      "Apologise.",
+      "Explain that you need a new appointment.",
+      "Suggest another time."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nleider kann ich meinen Termin am Dienstag nicht wahrnehmen. Könnten wir bitte einen neuen Termin vereinbaren? Am Donnerstag bin ich verfügbar.\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E06",
+    "stage": 6,
+    "title": "Thank someone for an invitation",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Thank someone for an invitation“ schreiben.",
+    "required_points": [
+      "Say thank you.",
+      "Mention what you liked.",
+      "Suggest meeting again."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Liebe Anna,\nvielen Dank für die schöne Einladung. Die Feier hat mir sehr gut gefallen. Das Essen war lecker und die Musik war toll. Wir sollten uns bald wieder treffen.\nLiebe Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E07",
+    "stage": 7,
+    "title": "Ask for course information",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Ask for course information“ schreiben.",
+    "required_points": [
+      "Introduce yourself.",
+      "Ask about course dates and fees.",
+      "Ask how to register."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nich interessiere mich für Ihren Deutschkurs auf A2-Niveau. Wann beginnt der nächste Kurs und wie viel kostet er? Wie kann ich mich anmelden?\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E08",
+    "stage": 8,
+    "title": "Plan a trip",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Plan a trip“ schreiben.",
+    "required_points": [
+      "Suggest a destination.",
+      "Ask about the travel date.",
+      "Discuss transport or accommodation."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Ben,\nich möchte im August nach Berlin fahren. Hast du Lust, mitzukommen? Wir können mit dem Zug fahren und zwei Tage dort bleiben. Wann hast du Zeit?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E09",
+    "stage": 9,
+    "title": "Ask about a room",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Ask about a room“ schreiben.",
+    "required_points": [
+      "Say when you need the room.",
+      "Ask about price and facilities.",
+      "Ask when you can visit."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Frau Müller,\nich suche ab dem ersten Mai ein Zimmer. Ist das Zimmer noch frei? Wie hoch ist die Miete und gibt es eine Küche? Ich würde es gern besichtigen.\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E10",
+    "stage": 10,
+    "title": "Apologise for being late",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Apologise for being late“ schreiben.",
+    "required_points": [
+      "Apologise.",
+      "Explain the reason.",
+      "Say when you will arrive."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Hallo Lisa,\nes tut mir leid, dass ich heute zu spät komme. Der Bus hat Verspätung. Ich bin ungefähr um zehn Uhr bei dir. Bitte warte noch ein bisschen.\nLiebe Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E11",
+    "stage": 11,
+    "title": "Describe your weekend",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Describe your weekend“ schreiben.",
+    "required_points": [
+      "Say where you went.",
+      "Describe two activities.",
+      "Say how you felt."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Hallo Sara,\nam Wochenende war ich mit meiner Familie im Park. Wir haben ein Picknick gemacht und Fußball gespielt. Das Wetter war schön. Am Sonntag habe ich zu Hause gelernt. Was hast du gemacht?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E12",
+    "stage": 12,
+    "title": "Describe a holiday",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Describe a holiday“ schreiben.",
+    "required_points": [
+      "Say where you travelled.",
+      "Describe the weather or activities.",
+      "Say what you liked."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Ali,\nin den Ferien war ich in Istanbul. Ich habe viele Sehenswürdigkeiten besucht und türkisches Essen probiert. Das Wetter war warm und die Menschen waren freundlich. Die Reise hat mir sehr gefallen.\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E13",
+    "stage": 13,
+    "title": "Arrange a visit",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Arrange a visit“ schreiben.",
+    "required_points": [
+      "Say when you want to visit.",
+      "Ask whether the friend is free.",
+      "Ask for the address or directions."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Liebe Maria,\nich möchte dich am Samstag besuchen. Hast du am Nachmittag Zeit? Kannst du mir bitte deine neue Adresse schicken? Ich freue mich auf unser Treffen.\nLiebe Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E14",
+    "stage": 14,
+    "title": "Ask about a hotel reservation",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Ask about a hotel reservation“ schreiben.",
+    "required_points": [
+      "Give the dates.",
+      "Ask about room availability and price.",
+      "Ask about breakfast."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nich möchte vom 12. bis 15. Juni ein Einzelzimmer reservieren. Ist ein Zimmer frei? Wie viel kostet es pro Nacht und ist das Frühstück im Preis enthalten?\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E15",
+    "stage": 15,
+    "title": "Request a doctor's appointment",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Request a doctor's appointment“ schreiben.",
+    "required_points": [
+      "Describe a simple problem.",
+      "Ask for an appointment.",
+      "Give your available times."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nich habe seit gestern starke Zahnschmerzen. Haben Sie heute oder morgen einen freien Termin? Am Nachmittag kann ich in Ihre Praxis kommen.\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E16",
+    "stage": 16,
+    "title": "Inform about illness",
+    "register": "Formal or informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Inform about illness“ schreiben.",
+    "required_points": [
+      "Say that you are ill.",
+      "Explain what you cannot attend.",
+      "Say when you expect to return."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Hallo Frau Schneider,\nleider bin ich krank und kann heute nicht zum Kurs kommen. Ich habe Fieber und muss zu Hause bleiben. Morgen informiere ich Sie, ob ich wieder teilnehmen kann.\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E17",
+    "stage": 17,
+    "title": "Ask about a German course",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Ask about a German course“ schreiben.",
+    "required_points": [
+      "Ask about A2 course availability.",
+      "Ask about schedule.",
+      "Ask about the registration process."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nich möchte gern einen A2-Deutschkurs besuchen. Findet der Kurs am Abend statt? Wie lange dauert er und wann kann ich mich anmelden?\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E18",
+    "stage": 18,
+    "title": "Enquire about an activity",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Enquire about an activity“ schreiben.",
+    "required_points": [
+      "Ask what activities are offered.",
+      "Ask about time and cost.",
+      "Ask how to join."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nich interessiere mich für Ihren Sportkurs. Welche Kurse bieten Sie an? Wann finden die Kurse statt und wie hoch ist die Gebühr? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E19",
+    "stage": 19,
+    "title": "Explain a simple problem",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Explain a simple problem“ schreiben.",
+    "required_points": [
+      "Describe the problem.",
+      "Explain when it happened.",
+      "Ask for advice or help."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Tim,\nich habe ein Problem mit meinem Laptop. Er startet nicht mehr und ich brauche ihn für die Arbeit. Kannst du mir vielleicht helfen? Hast du heute Abend Zeit?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E20",
+    "stage": 20,
+    "title": "Write a simple complaint",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Write a simple complaint“ schreiben.",
+    "required_points": [
+      "Explain what you bought or booked.",
+      "Describe the problem.",
+      "Request a solution."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nich habe letzte Woche einen Wasserkocher bei Ihnen gekauft. Leider funktioniert er nicht. Könnten Sie das Gerät bitte umtauschen oder reparieren?\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E21",
+    "stage": 21,
+    "title": "Report a missing parcel",
+    "register": "Formal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Report a missing parcel“ schreiben.",
+    "required_points": [
+      "Give the order or delivery date.",
+      "Explain that the parcel has not arrived.",
+      "Ask what happens next."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Sehr geehrte Damen und Herren,\nmeine Bestellung ist noch nicht angekommen. Ich habe das Paket vor fünf Tagen bestellt. Können Sie bitte prüfen, wo es ist und wann es geliefert wird?\nMit freundlichen Grüßen\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E22",
+    "stage": 22,
+    "title": "Confirm an arrangement",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Confirm an arrangement“ schreiben.",
+    "required_points": [
+      "Confirm the date and time.",
+      "Repeat the meeting place.",
+      "Ask whether anything is needed."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Max,\nunser Treffen am Freitag um 17 Uhr im Café am Bahnhof passt mir gut. Ich komme pünktlich. Soll ich etwas mitbringen? Bis Freitag!\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E23",
+    "stage": 23,
+    "title": "Write about your work",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Write about your work“ schreiben.",
+    "required_points": [
+      "Describe your job.",
+      "Mention your working hours.",
+      "Say what you like or dislike."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Hallo Anna,\nich arbeite in einem kleinen Büro. Ich beginne um acht Uhr und mache um zwölf Uhr Mittagspause. Meine Kollegen sind freundlich. Mir gefällt meine Arbeit, aber manchmal ist es sehr stressig.\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E24",
+    "stage": 24,
+    "title": "Write about your family",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Write about your family“ schreiben.",
+    "required_points": [
+      "Introduce family members.",
+      "Describe one shared activity.",
+      "Ask about the friend's family."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Liebe Sara,\nmeine Familie ist nicht sehr groß. Ich wohne mit meinen Eltern und meinem Bruder. Am Wochenende kochen wir oft zusammen und besuchen unsere Großeltern. Wie ist deine Familie?\nLiebe Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E25",
+    "stage": 25,
+    "title": "Organise a celebration",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Organise a celebration“ schreiben.",
+    "required_points": [
+      "Suggest the event.",
+      "Discuss date and place.",
+      "Ask the friend to help."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Ali,\nwollen wir am Samstag eine kleine Feier machen? Wir können uns bei mir treffen. Ich kümmere mich um das Essen. Kannst du Getränke mitbringen? Bitte sag mir Bescheid.\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E26",
+    "stage": 26,
+    "title": "Plan a meeting",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Plan a meeting“ schreiben.",
+    "required_points": [
+      "Suggest a day.",
+      "Offer a time and place.",
+      "Ask for confirmation."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Hallo Ben,\nhast du am Sonntag Zeit? Wir könnten uns um 15 Uhr im Stadtpark treffen und zusammen spazieren gehen. Danach können wir einen Kaffee trinken. Passt dir das?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E27",
+    "stage": 27,
+    "title": "Ask for help",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Ask for help“ schreiben.",
+    "required_points": [
+      "Explain what you need.",
+      "Say why you need help.",
+      "Suggest when to meet."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Liebe Maria,\nkannst du mir bitte bei meinen Deutschaufgaben helfen? Ich verstehe die Übung zu Perfekt nicht gut. Hast du heute Abend eine halbe Stunde Zeit? Vielen Dank!\nLiebe Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E28",
+    "stage": 28,
+    "title": "Make a suggestion",
+    "register": "Informal",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Make a suggestion“ schreiben.",
+    "required_points": [
+      "Describe the situation.",
+      "Suggest an activity.",
+      "Ask whether the friend agrees."
+    ],
+    "suggested_word_count": "30–50",
+    "time_limit_minutes": 15,
+    "sample_answer": "Hallo Tom,\ndas Wetter soll am Samstag schön sein. Wir könnten zusammen an den See fahren und dort spazieren gehen. Bring bitte etwas zu trinken mit. Was meinst du?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E29",
+    "stage": 29,
+    "title": "Mixed email task",
+    "register": "Mixed",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Mixed email task“ schreiben.",
+    "required_points": [
+      "Respond to all task points.",
+      "Use the correct register.",
+      "Use a suitable greeting and closing."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Liebe Anna,\nvielen Dank für deine Nachricht. Ich kann am Samstag kommen. Ich bringe einen Salat mit. Um wie viel Uhr treffen wir uns und wo genau?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  },
+  {
+    "id": "E30",
+    "stage": 30,
+    "title": "Final A2 email examination",
+    "register": "Mixed",
+    "scenario": "Du möchtest eine kurze E-Mail zum Thema „Final A2 email examination“ schreiben.",
+    "required_points": [
+      "Complete all task points clearly.",
+      "Use appropriate A2 grammar and vocabulary.",
+      "Use a suitable email structure and register."
+    ],
+    "suggested_word_count": "40–60",
+    "time_limit_minutes": 15,
+    "sample_answer": "Lieber Ali,\ndanke für deine Nachricht. Ich lerne zurzeit Deutsch und übe besonders Grammatik und Schreiben. Am Wochenende möchte ich mit Freunden lernen. Was machst du gern in deiner Freizeit?\nViele Grüße\nMobeen",
+    "rubric": {
+      "task_completion": 30,
+      "grammar": 25,
+      "vocabulary": 15,
+      "coherence_sentence_structure": 10,
+      "register_email_structure": 10,
+      "spelling_punctuation": 10
+    },
+    "rubric_note": "DeutschPath product rubric; not official Goethe grading weights.",
+    "content_status": "needs_language_review"
+  }
+]

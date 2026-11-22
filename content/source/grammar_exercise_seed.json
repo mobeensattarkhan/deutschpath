@@ -1,0 +1,237 @@
+[
+  {
+    "id": "G01-01",
+    "stage": 1,
+    "type": "translate_en_de",
+    "prompt": "I learn German every day.",
+    "model_answer": "Ich lerne jeden Tag Deutsch.",
+    "accepted_answers": [
+      "Jeden Tag lerne ich Deutsch."
+    ],
+    "target": "main_clause_verb_position",
+    "explanation": "The conjugated verb is in position two. If Jeden Tag comes first, the subject follows the verb."
+  },
+  {
+    "id": "G01-02",
+    "stage": 1,
+    "type": "reorder",
+    "prompt": "heute / ich / Deutsch / lerne",
+    "model_answer": "Heute lerne ich Deutsch.",
+    "accepted_answers": [
+      "Ich lerne heute Deutsch."
+    ],
+    "target": "main_clause_word_order",
+    "explanation": "The finite verb stays in second position in a main clause."
+  },
+  {
+    "id": "G02-01",
+    "stage": 2,
+    "type": "fill_blank",
+    "prompt": "Ich ___ aus Pakistan. (kommen)",
+    "model_answer": "komme",
+    "accepted_answers": [
+      "komme"
+    ],
+    "target": "present_conjugation",
+    "explanation": "The ending for ich is usually -e."
+  },
+  {
+    "id": "G03-01",
+    "stage": 3,
+    "type": "conjugate",
+    "prompt": "Conjugate lernen with du.",
+    "model_answer": "du lernst",
+    "accepted_answers": [
+      "lernst"
+    ],
+    "target": "regular_present",
+    "explanation": "The du form of a regular verb usually ends in -st."
+  },
+  {
+    "id": "G04-01",
+    "stage": 4,
+    "type": "translate_en_de",
+    "prompt": "Where do you live?",
+    "model_answer": "Wo wohnst du?",
+    "accepted_answers": [],
+    "target": "w_question",
+    "explanation": "Use the question word, then the conjugated verb, then the subject."
+  },
+  {
+    "id": "G06-01",
+    "stage": 6,
+    "type": "choose",
+    "prompt": "Choose the correct sentence: (a) Ich habe kein Auto. (b) Ich habe nicht Auto.",
+    "model_answer": "a",
+    "accepted_answers": [
+      "Ich habe kein Auto."
+    ],
+    "target": "negation_kein",
+    "explanation": "Kein negates a noun used without a definite article."
+  },
+  {
+    "id": "G07-01",
+    "stage": 7,
+    "type": "translate_en_de",
+    "prompt": "She works in a hospital.",
+    "model_answer": "Sie arbeitet in einem Krankenhaus.",
+    "accepted_answers": [],
+    "target": "regular_present",
+    "explanation": "The er/sie/es form of arbeiten is arbeitet."
+  },
+  {
+    "id": "G08-01",
+    "stage": 8,
+    "type": "translate_en_de",
+    "prompt": "You (du) read a book.",
+    "model_answer": "Du liest ein Buch.",
+    "accepted_answers": [],
+    "target": "irregular_present",
+    "explanation": "Lesen changes e to ie in the du and er/sie/es forms."
+  },
+  {
+    "id": "G09-01",
+    "stage": 9,
+    "type": "translate_en_de",
+    "prompt": "I get up at seven.",
+    "model_answer": "Ich stehe um sieben Uhr auf.",
+    "accepted_answers": [],
+    "target": "separable_verb",
+    "explanation": "The prefix auf goes to the end of the main clause."
+  },
+  {
+    "id": "G10-01",
+    "stage": 10,
+    "type": "translate_en_de",
+    "prompt": "I must study today.",
+    "model_answer": "Ich muss heute lernen.",
+    "accepted_answers": [],
+    "target": "modal_verb",
+    "explanation": "The modal verb is conjugated and the infinitive goes to the end."
+  },
+  {
+    "id": "G11-01",
+    "stage": 11,
+    "type": "translate_en_de",
+    "prompt": "I am interested in music.",
+    "model_answer": "Ich interessiere mich für Musik.",
+    "accepted_answers": [],
+    "target": "reflexive_verb",
+    "explanation": "Sich interessieren is a reflexive verb; with ich use mich."
+  },
+  {
+    "id": "G13-01",
+    "stage": 13,
+    "type": "translate_en_de",
+    "prompt": "I learned German yesterday.",
+    "model_answer": "Ich habe gestern Deutsch gelernt.",
+    "accepted_answers": [
+      "Gestern habe ich Deutsch gelernt."
+    ],
+    "target": "perfekt_formation",
+    "explanation": "Perfekt uses a conjugated auxiliary and the participle at the end."
+  },
+  {
+    "id": "G14-01",
+    "stage": 14,
+    "type": "choose",
+    "prompt": "Choose the correct sentence: (a) Ich bin nach Hause gegangen. (b) Ich habe nach Hause gegangen.",
+    "model_answer": "a",
+    "accepted_answers": [
+      "Ich bin nach Hause gegangen."
+    ],
+    "target": "haben_or_sein",
+    "explanation": "Gehen commonly forms Perfekt with sein."
+  },
+  {
+    "id": "G15-01",
+    "stage": 15,
+    "type": "fill_blank",
+    "prompt": "Wir haben Fußball ___. (spielen)",
+    "model_answer": "gespielt",
+    "accepted_answers": [
+      "gespielt"
+    ],
+    "target": "regular_partizip_ii",
+    "explanation": "A regular participle commonly uses ge- + stem + -t."
+  },
+  {
+    "id": "G16-01",
+    "stage": 16,
+    "type": "fill_blank",
+    "prompt": "Er hat einen Brief ___. (schreiben)",
+    "model_answer": "geschrieben",
+    "accepted_answers": [
+      "geschrieben"
+    ],
+    "target": "irregular_partizip_ii",
+    "explanation": "Schreiben has the irregular participle geschrieben."
+  },
+  {
+    "id": "G17-01",
+    "stage": 17,
+    "type": "fill_blank",
+    "prompt": "Sie hat ihre Mutter ___. (anrufen)",
+    "model_answer": "angerufen",
+    "accepted_answers": [
+      "angerufen"
+    ],
+    "target": "separable_partizip",
+    "explanation": "For this separable verb, ge appears between the prefix and stem."
+  },
+  {
+    "id": "G20-01",
+    "stage": 20,
+    "type": "translate_en_de",
+    "prompt": "When I was a child, I lived in Lahore.",
+    "model_answer": "Als ich ein Kind war, wohnte ich in Lahore.",
+    "accepted_answers": [
+      "Als ich ein Kind war, habe ich in Lahore gewohnt."
+    ],
+    "target": "praeteritum_sein",
+    "explanation": "War is the Präteritum form of sein. The second clause can use a suitable past form."
+  },
+  {
+    "id": "G21-01",
+    "stage": 21,
+    "type": "translate_en_de",
+    "prompt": "I had to work yesterday.",
+    "model_answer": "Ich musste gestern arbeiten.",
+    "accepted_answers": [],
+    "target": "modal_praeteritum",
+    "explanation": "Musste is the Präteritum form of müssen; the infinitive stays at the end."
+  },
+  {
+    "id": "G23-01",
+    "stage": 23,
+    "type": "translate_en_de",
+    "prompt": "I will visit my friend tomorrow.",
+    "model_answer": "Ich werde morgen meinen Freund besuchen.",
+    "accepted_answers": [
+      "Morgen werde ich meinen Freund besuchen.",
+      "Morgen besuche ich meinen Freund."
+    ],
+    "target": "futur_i",
+    "explanation": "Futur I uses werden plus an infinitive at the end. Präsens with a future time expression is also natural."
+  },
+  {
+    "id": "G27-01",
+    "stage": 27,
+    "type": "translate_en_de",
+    "prompt": "I am staying home because I am tired.",
+    "model_answer": "Ich bleibe zu Hause, weil ich müde bin.",
+    "accepted_answers": [],
+    "target": "weil_word_order",
+    "explanation": "In a weil subordinate clause, the conjugated verb goes to the end."
+  },
+  {
+    "id": "G28-01",
+    "stage": 28,
+    "type": "correct_sentence",
+    "prompt": "Correct this sentence: Gestern ich habe meine Freundin besucht.",
+    "model_answer": "Gestern habe ich meine Freundin besucht.",
+    "accepted_answers": [],
+    "target": "verb_second_perfekt",
+    "explanation": "When a time phrase is first, the finite auxiliary remains in second position."
+  }
+]

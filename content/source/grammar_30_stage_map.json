@@ -1,0 +1,242 @@
+[
+  {
+    "stage": 1,
+    "title": "German sentence structure",
+    "objective": "Build basic main clauses with finite verb in position two.",
+    "phase": "Foundations",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 2,
+    "title": "Subject and finite verb",
+    "objective": "Identify subject and conjugate the verb to match it.",
+    "phase": "Foundations",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 3,
+    "title": "Present-tense conjugation",
+    "objective": "Conjugate regular verbs in Präsens.",
+    "phase": "Foundations",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 4,
+    "title": "Statements and questions",
+    "objective": "Create statements, yes/no questions and W-questions.",
+    "phase": "Foundations",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 5,
+    "title": "Time and place expressions",
+    "objective": "Place time and place phrases in common A2 sentence patterns.",
+    "phase": "Foundations",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 6,
+    "title": "Negation: nicht and kein",
+    "objective": "Choose and place nicht and kein correctly.",
+    "phase": "Foundations",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 7,
+    "title": "Regular verbs in Präsens",
+    "objective": "Use common regular verbs in everyday contexts.",
+    "phase": "Präsens",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 8,
+    "title": "Common irregular verbs",
+    "objective": "Conjugate frequent vowel-changing verbs.",
+    "phase": "Präsens",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 9,
+    "title": "Separable verbs",
+    "objective": "Place the prefix correctly in main clauses and infinitives.",
+    "phase": "Präsens",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 10,
+    "title": "Modal verbs in Präsens",
+    "objective": "Use können, müssen, dürfen, wollen, sollen and mögen.",
+    "phase": "Präsens",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 11,
+    "title": "Reflexive verbs",
+    "objective": "Use common reflexive verbs and pronouns.",
+    "phase": "Präsens",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 12,
+    "title": "Präsens revision test",
+    "objective": "Mixed present-tense and sentence-building assessment.",
+    "phase": "Präsens",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 13,
+    "title": "Perfekt formation",
+    "objective": "Build Perfekt with auxiliary and Partizip II.",
+    "phase": "Perfekt",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 14,
+    "title": "Haben or sein",
+    "objective": "Choose the correct auxiliary for common verbs.",
+    "phase": "Perfekt",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 15,
+    "title": "Regular Partizip II",
+    "objective": "Form participles of regular verbs.",
+    "phase": "Perfekt",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 16,
+    "title": "Irregular Partizip II",
+    "objective": "Learn frequent irregular participles.",
+    "phase": "Perfekt",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 17,
+    "title": "Separable and inseparable verbs in Perfekt",
+    "objective": "Form participles with prefixes.",
+    "phase": "Perfekt",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 18,
+    "title": "Perfekt revision test",
+    "objective": "Mixed Perfekt assessment.",
+    "phase": "Perfekt",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 19,
+    "title": "Präteritum introduction",
+    "objective": "Understand common written/spoken uses of Präteritum.",
+    "phase": "Präteritum and Futur",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 20,
+    "title": "Präteritum: sein and haben",
+    "objective": "Use war and hatte forms.",
+    "phase": "Präteritum and Futur",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 21,
+    "title": "Modal verbs in Präteritum",
+    "objective": "Use common modal verb past forms.",
+    "phase": "Präteritum and Futur",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 22,
+    "title": "Common Präteritum verbs",
+    "objective": "Recognise and use frequent regular and irregular forms.",
+    "phase": "Präteritum and Futur",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 23,
+    "title": "Futur I introduction",
+    "objective": "Form werden + infinitive and express future intentions.",
+    "phase": "Präteritum and Futur",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 24,
+    "title": "Tense revision test",
+    "objective": "Choose and construct suitable tense forms.",
+    "phase": "Präteritum and Futur",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 25,
+    "title": "Präsens versus Perfekt",
+    "objective": "Choose present or past in context.",
+    "phase": "Integrated practice",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 26,
+    "title": "Time expressions",
+    "objective": "Use gestern, früher, schon, gerade, morgen and related expressions.",
+    "phase": "Integrated practice",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 27,
+    "title": "Subordinate clauses",
+    "objective": "Use weil, dass and wenn with verb-final order.",
+    "phase": "Integrated practice",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 28,
+    "title": "Mixed tense translation",
+    "objective": "Translate connected A2-level sentences.",
+    "phase": "Integrated practice",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 29,
+    "title": "Everyday sentence construction",
+    "objective": "Create original sentences for practical situations.",
+    "phase": "Integrated practice",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  },
+  {
+    "stage": 30,
+    "title": "Final grammar examination",
+    "objective": "Integrated A2 grammar and tense assessment.",
+    "phase": "Integrated practice",
+    "question_count_target": 10,
+    "content_status": "outline_only"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "stage": 1,
+    "topic": "Birthday invitation",
+    "register": "Informal",
+    "required_points": [
+      "Thank the friend for the invitation.",
+      "Say whether you can attend.",
+      "Ask when the party starts."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 2,
+    "topic": "Accept an invitation",
+    "register": "Informal",
+    "required_points": [
+      "Thank the person.",
+      "Accept the invitation.",
+      "Ask what you should bring."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 3,
+    "topic": "Decline an invitation",
+    "register": "Informal",
+    "required_points": [
+      "Thank the person.",
+      "Explain why you cannot come.",
+      "Suggest another day."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 4,
+    "topic": "Arrange an appointment",
+    "register": "Formal",
+    "required_points": [
+      "State why you are writing.",
+      "Ask for an appointment.",
+      "Give suitable days or times."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 5,
+    "topic": "Reschedule an appointment",
+    "register": "Formal",
+    "required_points": [
+      "Apologise.",
+      "Explain that you need a new appointment.",
+      "Suggest another time."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 6,
+    "topic": "Thank someone for an invitation",
+    "register": "Informal",
+    "required_points": [
+      "Say thank you.",
+      "Mention what you liked.",
+      "Suggest meeting again."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 7,
+    "topic": "Ask for course information",
+    "register": "Formal",
+    "required_points": [
+      "Introduce yourself.",
+      "Ask about course dates and fees.",
+      "Ask how to register."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 8,
+    "topic": "Plan a trip",
+    "register": "Informal",
+    "required_points": [
+      "Suggest a destination.",
+      "Ask about the travel date.",
+      "Discuss transport or accommodation."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 9,
+    "topic": "Ask about a room",
+    "register": "Formal",
+    "required_points": [
+      "Say when you need the room.",
+      "Ask about price and facilities.",
+      "Ask when you can visit."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 10,
+    "topic": "Apologise for being late",
+    "register": "Informal",
+    "required_points": [
+      "Apologise.",
+      "Explain the reason.",
+      "Say when you will arrive."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 11,
+    "topic": "Describe your weekend",
+    "register": "Informal",
+    "required_points": [
+      "Say where you went.",
+      "Describe two activities.",
+      "Say how you felt."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 12,
+    "topic": "Describe a holiday",
+    "register": "Informal",
+    "required_points": [
+      "Say where you travelled.",
+      "Describe the weather or activities.",
+      "Say what you liked."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 13,
+    "topic": "Arrange a visit",
+    "register": "Informal",
+    "required_points": [
+      "Say when you want to visit.",
+      "Ask whether the friend is free.",
+      "Ask for the address or directions."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 14,
+    "topic": "Ask about a hotel reservation",
+    "register": "Formal",
+    "required_points": [
+      "Give the dates.",
+      "Ask about room availability and price.",
+      "Ask about breakfast."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 15,
+    "topic": "Request a doctor's appointment",
+    "register": "Formal",
+    "required_points": [
+      "Describe a simple problem.",
+      "Ask for an appointment.",
+      "Give your available times."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 16,
+    "topic": "Inform about illness",
+    "register": "Formal or informal",
+    "required_points": [
+      "Say that you are ill.",
+      "Explain what you cannot attend.",
+      "Say when you expect to return."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 17,
+    "topic": "Ask about a German course",
+    "register": "Formal",
+    "required_points": [
+      "Ask about A2 course availability.",
+      "Ask about schedule.",
+      "Ask about the registration process."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 18,
+    "topic": "Enquire about an activity",
+    "register": "Formal",
+    "required_points": [
+      "Ask what activities are offered.",
+      "Ask about time and cost.",
+      "Ask how to join."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 19,
+    "topic": "Explain a simple problem",
+    "register": "Informal",
+    "required_points": [
+      "Describe the problem.",
+      "Explain when it happened.",
+      "Ask for advice or help."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 20,
+    "topic": "Write a simple complaint",
+    "register": "Formal",
+    "required_points": [
+      "Explain what you bought or booked.",
+      "Describe the problem.",
+      "Request a solution."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 21,
+    "topic": "Report a missing parcel",
+    "register": "Formal",
+    "required_points": [
+      "Give the order or delivery date.",
+      "Explain that the parcel has not arrived.",
+      "Ask what happens next."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 22,
+    "topic": "Confirm an arrangement",
+    "register": "Informal",
+    "required_points": [
+      "Confirm the date and time.",
+      "Repeat the meeting place.",
+      "Ask whether anything is needed."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 23,
+    "topic": "Write about your work",
+    "register": "Informal",
+    "required_points": [
+      "Describe your job.",
+      "Mention your working hours.",
+      "Say what you like or dislike."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 24,
+    "topic": "Write about your family",
+    "register": "Informal",
+    "required_points": [
+      "Introduce family members.",
+      "Describe one shared activity.",
+      "Ask about the friend's family."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 25,
+    "topic": "Organise a celebration",
+    "register": "Informal",
+    "required_points": [
+      "Suggest the event.",
+      "Discuss date and place.",
+      "Ask the friend to help."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 26,
+    "topic": "Plan a meeting",
+    "register": "Informal",
+    "required_points": [
+      "Suggest a day.",
+      "Offer a time and place.",
+      "Ask for confirmation."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 27,
+    "topic": "Ask for help",
+    "register": "Informal",
+    "required_points": [
+      "Explain what you need.",
+      "Say why you need help.",
+      "Suggest when to meet."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 28,
+    "topic": "Make a suggestion",
+    "register": "Informal",
+    "required_points": [
+      "Describe the situation.",
+      "Suggest an activity.",
+      "Ask whether the friend agrees."
+    ],
+    "suggested_word_count": "30–50",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 29,
+    "topic": "Mixed email task",
+    "register": "Mixed",
+    "required_points": [
+      "Respond to all task points.",
+      "Use the correct register.",
+      "Use a suitable greeting and closing."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  },
+  {
+    "stage": 30,
+    "topic": "Final A2 email examination",
+    "register": "Mixed",
+    "required_points": [
+      "Complete all task points clearly.",
+      "Use appropriate A2 grammar and vocabulary.",
+      "Use a suitable email structure and register."
+    ],
+    "suggested_word_count": "40–60",
+    "suggested_time_minutes": 15,
+    "content_status": "task_seed"
+  }
+]
