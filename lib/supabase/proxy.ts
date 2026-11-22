@@ -21,7 +21,24 @@ function isPublicPath(pathname: string): boolean {
  * preserves its cookies) so the refreshed session is persisted in the browser.
  */
 export async function updateSession(request: NextRequest): Promise<NextResponse> {
-  let supabaseResponse = NextResponse.next({ request });
+  const supabaseResponse = NextResponse.next({ request });
+
+  // If the app is misconfigured (e.g. Supabase env vars not set yet), do not
+  // take down every route with a 500 from the middleware. Let the request
+  // through so pages can render a clear message instead of a blank error.
+  try {
+    return await refreshSession(request, supabaseResponse);
+  } catch (err) {
+    console.error('[proxy] session refresh skipped:', (err as Error).message);
+    return supabaseResponse;
+  }
+}
+
+async function refreshSession(
+  request: NextRequest,
+  initialResponse: NextResponse,
+): Promise<NextResponse> {
+  let supabaseResponse = initialResponse;
 
   const supabase = createServerClient(
     publicEnv.NEXT_PUBLIC_SUPABASE_URL,
