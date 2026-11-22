@@ -8,11 +8,17 @@ import { createClient } from '@/lib/supabase/server';
  * trust a single gate for protected data.
  */
 export default async function LearnerLayout({ children }: { children: React.ReactNode }) {
-  const supabase = await createClient();
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+  let user = null;
+  try {
+    const supabase = await createClient();
+    ({
+      data: { user },
+    } = await supabase.auth.getUser());
+  } catch {
+    user = null;
+  }
 
+  // Not signed in (or backend not configured) → send to login rather than crash.
   if (!user) redirect('/login');
 
   return <AppShell userEmail={user.email ?? ''}>{children}</AppShell>;

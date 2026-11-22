@@ -5,11 +5,17 @@ import { BRAND, MODULES } from '@/lib/constants';
 import { createClient } from '@/lib/supabase/server';
 
 export default async function LandingPage() {
-  // If already signed in, send the learner straight to their dashboard.
-  const supabase = await createClient();
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+  // The public landing page must render even if Supabase is not configured yet,
+  // so a fresh deploy shows the real page instead of an error screen.
+  let user = null;
+  try {
+    const supabase = await createClient();
+    ({
+      data: { user },
+    } = await supabase.auth.getUser());
+  } catch {
+    user = null;
+  }
 
   return (
     <div className="min-h-screen">
